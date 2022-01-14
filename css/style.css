@@ -37,6 +37,8 @@ img{
 h2{
 	font-size: 2em; 
 	font-weight: bold;
+	border: 2px solid grey;
+	margin: 10px 0 0;
 }
 
 /*Improve the spacing for paragraphs AND headings*/
@@ -57,10 +59,10 @@ items in the nav section*/
 nav li{
 	background-color: #ECFF4D;
 	padding:10px;
-	width:50%;
+	width:20%;
 	border:1px solid black;
 	display: inline-block;
-	width: 50%;
+	width: 15%;
 }
 
 
